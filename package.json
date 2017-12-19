@@ -1,0 +1,21 @@
+{
+  "name": "newsapp",
+  "version": "1.0.0",
+  "description": "Get news in Marathi and English",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "Govind Narute",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.15.0"
+  }
+}
